@@ -1,0 +1,84 @@
+Library management system
+
+step 1: stsrt
+step 2: register the library card
+step 3: search the book
+step 4: select the book
+step 5: sign of the date
+step 6: return the book go to step 2
+stem 7: stop
+
+
+
+
+ATM transaction
+
+step 1: start
+step 2: read pinnum, pno
+step 3: if pin == pno
+ener the amount
+step 4: transaction susccessfully
+else 
+invalid card pin
+step 5: stop
+
+
+
+3 . Algorithm for restorent management system
+
+a. restorent management system
+
+step 1: start
+step 2: select the food 
+step 3: order the food
+step 3: check the amount
+step 4: pay the amount
+step 5: confirm the food
+step 6: recive the food
+step 7: stop
+
+b. kichen management system
+    
+step 1. Start
+step 2. Shows the numbers of items will be present
+	 in the menu.
+step 3. If selected the one item it will show the item ingridiances 
+	and processing time item.
+step 4. After selecting items it will take the whole process 
+	times consideration of all items which is takes time more it will indicates  as time duration for customer, and  have to waiit to get the item.
+step 5. After all the time it will comes to the customer
+step 6. Stop
+​
+
+c. employee management system
+
+
+1. Start
+2. In this we get the all employee details which working inside the resturant like catagories wise number of cheff's,number of waiters,number of dish cleaners, number of floor cleaners
+3. When we select the one  cheff we will get the total cheff's details which includes their salary,for which type of items they will make and their shift timing,like this for  every category  of employees we will get the salary ,type of work,shift timings
+4. After selecting we will get their details seperately category wise
+5. Stop
+      
+     
+   
+
+
+START.
+ENTER THE CARD.
+CHECK IF CARD IS VALID. IF CARD IS INVALID, RETURN CARD.
+ENTER THE LANGUAGE.
+ENTER PIN.
+IF THE PASSWORD IS INCORRECT.
+THEN REPEAT STEP 6.
+IF AGAIN WRONG THAN LAST TIME REPEAT STEP 6.
+ELSE DO NOT RETURN THE CARD TO USER
+if  PASSWORD IS CORRECt
+SELECT YOUR ACCOUNT TYPE
+SELECT YOUR TYPE OF TRANSACTIOn
+enter amount
+IF THE AMOUNT ENTERED IS AVAILABLE
+tHAN GIVE IT TO THE USER
+ELSE TELL THE USER THAT YOUR BALANCE IS LOW
+AFTER THE PROCESSING IS ENDS, PRINT RECIPT FOR USER
+THEN RETURN BACK THE CARD TO USER
+stop
